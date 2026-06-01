@@ -1,5 +1,7 @@
 ﻿# Rain Forecast (Radar + ERA5) — Radar Filling + U-Net Attention
 
+Link dataset: https://www.kaggle.com/datasets/vanhuyluan/data-rain-ai
+
 Dự án này gồm **2 notebook**:
 
 1) **Tiền xử lý Radar (fill vùng trắng/NaN)** để tạo tập radar “đã làm sạch”
